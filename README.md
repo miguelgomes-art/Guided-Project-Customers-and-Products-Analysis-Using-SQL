@@ -1,12 +1,24 @@
-## Introduction
+## Guided Project - Customers and products analysis using SQL
 
-The goal of this project is to analyze data from a sales records database for scale model cars and extract information for decision-making.
+This guided project was done on the Dataquest platform and examines product performance and customer profitability through SQL. It investigates inventory enhancement by recognizing leading low-stock, high-performing items and categorizing customers based on profit generation. By utilizing Common Table Expressions (CTEs), it computes Customer Lifetime Value (LTV) to guide marketing and acquisition tactics. 
 
-## Questions
+Important takeaways include: 
 
-Question 1: Which products should we order more of or less of?
-Question 2: How should we tailor marketing and communication strategies to customer behaviors?
-Question 3: How much can we spend on acquiring new customers?
+    Giving priority to products for replenishment. 	
+    
+    Recognizing VIP and customers with minimal engagement. 
+    
+    Determining the average profit per customer to assess acquisition budgets. 
+    
+    Perfect for companies looking for data-oriented approaches to enhance income and customer loyalty
+
+Throughout the query, the following questions are answered:
+
+    Question 1: Which products should we order more of or less of?
+
+    Question 2: How should we tailor marketing and communication strategies to customer behaviors?
+
+    Question 3: How much can we spend on acquiring new customers?
 
 ## Scale Model Cars Database
 
